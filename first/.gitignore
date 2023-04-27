@@ -1,0 +1,10 @@
+hello
+.cargo
+ackermann
+fact
+.*
+!.gitignore
+hello-x
+hello-multithreaded
+prime-sieve
+files
